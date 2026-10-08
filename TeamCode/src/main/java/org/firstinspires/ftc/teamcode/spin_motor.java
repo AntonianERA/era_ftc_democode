@@ -34,8 +34,6 @@ public class spin_motor extends LinearOpMode
         }
     }
 
-
-
-
+    HEllo ROSS. This BREAKS OUR CODE.
 }
 
